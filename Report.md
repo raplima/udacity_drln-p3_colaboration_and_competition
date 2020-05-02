@@ -33,7 +33,7 @@ and [here](https://github.com/silviomori/udacity-deep-reinforcement-learning-p3-
 The choice for network architecture is based on experimentation aiming to solve the environment as well as an attempt to mantain the architecture simple. 
 
 ## Plot of Rewards
-![alt text](./training.pdf "Rewards per episode - the agent receives an average reward (over 100 episodes) of at least +0.5. ")  
+![alt text](./training.png "Rewards per episode - the agent receives an average reward (over 100 episodes) of at least +0.5. ")  
 The environment was solved in 1622 episodes. Note the _*version 1 (Tennis)*_ is solved. 
 
 ## Ideas for Future Work
